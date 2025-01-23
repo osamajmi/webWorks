@@ -35,7 +35,7 @@ export const Footer = () => {
             <div className="container-fluid footer py-5 wow fadeIn" data-wow-delay="0.2s">
                 <div className="container py-5">
                     <div className="row g-5">
-                        <div className="col-md-6 col-lg-6 col-xl-3">
+                        <div className="col-sm-6 col-md-6 col-lg-6 col-xl-3">
                             <div className="footer-item d-flex flex-column">
                                 <h4 className="text-dark mb-4">Company</h4>
                                 <Link to="/why-mailler">Why Mailler?</Link>
@@ -46,7 +46,7 @@ export const Footer = () => {
                                 <Link to="/contact">Get In Touch</Link>
                             </div>
                         </div>
-                        <div className="col-md-6 col-lg-6 col-xl-3">
+                        <div className="col-sm-6 col-md-6 col-lg-6 col-xl-3">
                             <div className="footer-item d-flex flex-column">
                                 <h4 className="mb-4 text-dark">Quick Links</h4>
                                 <Link to="/about">About Us</Link>
@@ -57,7 +57,7 @@ export const Footer = () => {
                                 <Link to="/team">Our Team</Link>
                             </div>
                         </div>
-                        <div className="col-md-6 col-lg-6 col-xl-3">
+                        <div className="col-sm-6 col-md-6 col-lg-6 col-xl-3">
                             <div className="footer-item d-flex flex-column">
                                 <h4 className="mb-4 text-dark">Services</h4>
                                 <Link to="/services">All Services</Link>
@@ -68,7 +68,7 @@ export const Footer = () => {
                                 <Link to="/retention-emails">Retention Emails</Link>
                             </div>
                         </div>
-                        <div className="col-md-6 col-lg-6 col-xl-3">
+                        <div className="col-sm-6 col-md-6 col-lg-6 col-xl-3">
                             <div className="footer-item d-flex flex-column">
                                 <h4 className="mb-4 text-dark">Contact Info</h4>
                                 <Link to="#">

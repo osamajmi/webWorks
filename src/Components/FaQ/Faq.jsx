@@ -13,7 +13,7 @@ export function FaQData(){
                             <div className="accordion-item border-0 mb-4">
                                 <h2 className="accordion-header" id="headingOne">
                                     <button className="accordion-button rounded-top" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseTOne">
-                                        Why did you choose Our Email Services?
+                                        Why did you choose Our Web Services?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
